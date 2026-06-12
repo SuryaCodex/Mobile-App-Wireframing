@@ -1,0 +1,62 @@
+export default {
+  content: ["./index.html", "./src/**/*.{js,jsx}"],
+  darkMode: "class",
+  theme: {
+    extend: {
+      colors: {
+        "inverse-surface": "#2d3133",
+        "surface-bright": "#f7f9fb",
+        "on-primary-container": "#fffbff",
+        "outline-variant": "#c7c4d7",
+        "primary-container": "#6063ee",
+        "inverse-primary": "#c0c1ff",
+        "surface-container-high": "#e6e8ea",
+        "background": "#f7f9fb",
+        "secondary-container": "#9c48ea",
+        "outline": "#767586",
+        "error-container": "#ffdad6",
+        "on-surface": "#191c1e",
+        "secondary-fixed-dim": "#ddb7ff",
+        "on-error": "#ffffff",
+        "secondary": "#8127cf",
+        "on-error-container": "#93000a",
+        "on-secondary-fixed": "#2c0051",
+        "on-secondary-container": "#fffbff",
+        "on-primary": "#ffffff",
+        "tertiary-fixed-dim": "#ffb0cd",
+        "tertiary-fixed": "#ffd9e4",
+        "on-tertiary": "#ffffff",
+        "primary-fixed-dim": "#c0c1ff",
+        "surface-tint": "#494bd6",
+        "surface-container-lowest": "#ffffff",
+        "surface-variant": "#e0e3e5",
+        "tertiary": "#b10e6b",
+        "on-tertiary-container": "#fffbff",
+        "error": "#ba1a1a",
+        "on-primary-fixed-variant": "#2f2ebe",
+        "on-background": "#191c1e",
+        "surface-container-low": "#f2f4f6",
+        "surface": "#f7f9fb",
+        "surface-container": "#eceef0",
+        "surface-dim": "#d8dadc",
+        "secondary-fixed": "#f0dbff",
+        "on-secondary-fixed-variant": "#6900b3",
+        "primary-fixed": "#e1e0ff",
+        "on-secondary": "#ffffff",
+        "primary": "#4648d4",
+        "on-surface-variant": "#464554",
+        "inverse-on-surface": "#eff1f3",
+        "surface-container-highest": "#e0e3e5",
+        "tertiary-container": "#d23284"
+      },
+      fontFamily: { sans: ["Inter", "sans-serif"] },
+      spacing: {
+        "stack-sm": "8px", "stack-md": "16px",
+        "stack-lg": "24px", "stack-xl": "48px",
+        "container-margin": "16px", "gutter": "16px", "unit": "4px"
+      },
+      borderRadius: { lg: "0.5rem", xl: "0.75rem", "2xl": "1rem", full: "9999px" }
+    }
+  },
+  plugins: []
+}
