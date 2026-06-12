@@ -1,5 +1,4 @@
-# Mobile-App-Wireframing
-Here's a clean and professional **GitHub README template for a Mobile App Wireframing project**:
+
 
 # Mobile App Wireframing
 
