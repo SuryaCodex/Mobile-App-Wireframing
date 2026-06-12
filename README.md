@@ -162,10 +162,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## Acknowledgments
-
-Special thanks to the UX/UI design community and project stakeholders for their feedback and support.
-
----
-
-⭐ If you find this project useful, consider starring the repository.
